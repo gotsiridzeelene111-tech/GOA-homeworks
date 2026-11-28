@@ -59,7 +59,7 @@ print(7 == 7 or 10 != 10)
 # not True = False;
 print(not(20 > 10))
 print(not(3 == 5))
-print(8 != 8)
+print(not(8 != 8))
 
 number = int(input("enter any  number: "))
 print(number > 77)
